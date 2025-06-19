@@ -2,7 +2,7 @@
   "name": "word-flash",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamesmalek047.github.io/UI_UX_Game/word-flash",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
